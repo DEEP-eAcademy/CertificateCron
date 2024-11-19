@@ -12,3 +12,7 @@ cd Customizing/global/plugins/Services/Cron/CronHook
 git clone https://github.com/Jakub-eAcademy/CertificateCron.git CertificateCron
 ```
 Update and activate the plugin in the ILIAS Plugin Administration
+```
+cd <ILIAS_ROOT_PATH>
+composer install --no-dev
+```
