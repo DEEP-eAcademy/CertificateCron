@@ -2,6 +2,10 @@
 
 This is fork of an OpenSource project created by fluxlabs ag, CH-Burgdorf (https://fluxlabs.ch)
 
+## Requirements
+* ILIAS 8
+* PHP 7.0 - 7.4
+
 ## Installation
 First install and enable [Certificate](https://github.com/Jakub-eAcademy/Certificate).
 
